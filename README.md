@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kavana</h1>
+<h3 align="center">A passionate software engineer</h3>
 
-<!--
-**Kavana-Prakash/Kavana-Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React JS, Java DSA and Web Development**
 
-Here are some ideas to get you started:
+- 👀 I’m interested in **learning Next JS, TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> Java, HTML, CSS, 
+Javascript, React JS, Node JS, Mongo DB, Express JS, Python, Flask, Django, PHP, Java Servlets and JSP, Arduino, Open CV </p>
